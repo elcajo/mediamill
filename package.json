@@ -1,0 +1,22 @@
+{
+  "homepage": "http://elcajo.github.io/mediamill",
+  "name": "mediamill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elcajo/mediamill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elcajo/mediamill/issues"
+  },
+  "homepage": "https://github.com/elcajo/mediamill#readme"
+}
